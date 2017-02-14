@@ -11,7 +11,7 @@ tags: ["hexo", "blog", "git", "hook"]
 下面是一个 `hooks/post-receive` 文件的例子, 在收到 git 推送后自动 build 静态 html.
 <!-- more -->
 
-```bash
+```shell
 #!/bin/sh
 #
 # An example hook script to prepare a packed repository for use over
