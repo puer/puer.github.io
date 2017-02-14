@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Auto Deployment Using Git Hooks"
+title: "使用 git hooks 自动部署"
 description: ""
-category: it
+category: IT
 tags: ["hexo", "blog", "git", "hook"]
 ---
 {% include JB/setup %}

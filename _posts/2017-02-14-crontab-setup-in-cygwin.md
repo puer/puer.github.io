@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Crontab Setup in Cygwin"
+title: "在cygwin下配置crontab"
 description: ""
-category: it
+category: IT
 tags: ["cygwin", "crontab"]
 ---
 {% include JB/setup %}
